@@ -69,5 +69,9 @@ img {
     width: 400px;
     height: 300px;
     border-radius: 15px;
-    margin: 50px 0;
+    margin: 50px 0 20px 0;
+}
+
+.hero h1, p {
+    margin: 10px 10px 50px;
 }
